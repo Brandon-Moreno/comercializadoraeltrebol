@@ -1,2 +1,2 @@
 # comercializadoraeltrebol
-tienda de mayoreo y menudeo en abarrotes y lacteos
+tienda de mayoreo y menudeo de abarrotes y lacteos
